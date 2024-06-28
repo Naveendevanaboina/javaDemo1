@@ -1,6 +1,6 @@
 package Districts;
 
-public class kammam {
+public class khammam {
     public String name1;
     public String name2;
 }
