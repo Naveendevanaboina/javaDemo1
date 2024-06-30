@@ -1,1 +1,1 @@
-india won by 7
+south africa won by 7
